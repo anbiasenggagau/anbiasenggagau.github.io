@@ -54,7 +54,7 @@ section:not(#navbar, #profile, #footer), .jumbotron{
     margin-bottom: 2.5%;
 }
 
-.pale-blue{
+.card-body{
     background-color: #064663;
     color: white;
 }
